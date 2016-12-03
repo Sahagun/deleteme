@@ -1,0 +1,3 @@
+new improved_funtions(){
+	syst.out.println(sdf);
+}
