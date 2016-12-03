@@ -1,0 +1,20 @@
+git log --oneline --decorate --graph --all
+git status
+git config --global user.name
+git config --global user.email
+git config -l
+
+# create new branch
+git branch name
+
+# create and checkout new branch
+git checkout -b name
+
+# deleate branch
+git branch -D name
+
+# list all branches
+git branch
+
+# checkout a branch
+git checkout name
